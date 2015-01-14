@@ -14,3 +14,5 @@ Run file and interact:
 | 3_conditionals.cs			| - Using if and switch-case |
 | 4_loops.cs				| - Using loops (While, do and For) |
 | 5_functions_methods.cs 	| - Using functions and methods |
+| 6_classes.cs 				| - Create Enumeration, Classes and Inheritance |
+| 7_libraries.cs 			| - Using libraries (Time, Math and Random) |
