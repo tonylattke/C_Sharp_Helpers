@@ -12,3 +12,5 @@ Run file and interact:
 | 1_variables.cs			| - Using variables |
 | 2_data_structures.cs		| - Using basic data structures (Tuple, array, List and dictionary) |
 | 3_conditionals.cs			| - Using if and switch-case |
+| 4_loops.cs				| - Using loops (While, do and For) |
+| 5_functions_methods.cs 	| - Using functions and methods |

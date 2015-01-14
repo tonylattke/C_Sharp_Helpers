@@ -1,6 +1,6 @@
 using System;
 
-class VariablesApp {
+class ConditionalsApp {
 
 	static void Main() {
 		
