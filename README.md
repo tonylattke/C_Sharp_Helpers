@@ -16,3 +16,4 @@ Run file and interact:
 | 5_functions_methods.cs 	| - Using functions and methods |
 | 6_classes.cs 				| - Create Enumeration, Classes and Inheritance |
 | 7_libraries.cs 			| - Using libraries (Time, Math and Random) |
+| 8_io.cs 					| - Read standard input and manipulate files |
