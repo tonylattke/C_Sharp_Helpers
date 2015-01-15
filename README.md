@@ -18,3 +18,12 @@ Run file and interact:
 | 7_libraries.cs 			| - Using libraries (Time, Math and Random) |
 | 8_io.cs 					| - Read standard input and manipulate files |
 | 9_value_transform.cs		| - Value to string and string to value functions |
+| PersonBase.cs				| - Interface created to be exported |
+| Person.cs					| - Implement PersonBase class |
+| HeroBase.cs				| - Abstract Class created to be exported |
+| Hero.cs					| - Extend Class HeroBase class |
+| Enemy.cs					| - Generic Template Class |
+| 10_importing_files.cs		| - Import files |
+
+Compile the last one using:
+mcs PersonBase.cs Person.cs HeroBase.cs Hero.cs 10_importing_files.cpp -o test
