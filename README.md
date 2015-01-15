@@ -17,3 +17,4 @@ Run file and interact:
 | 6_classes.cs 				| - Create Enumeration, Classes and Inheritance |
 | 7_libraries.cs 			| - Using libraries (Time, Math and Random) |
 | 8_io.cs 					| - Read standard input and manipulate files |
+| 9_value_transform.cs		| - Value to string and string to value functions |
